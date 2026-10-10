@@ -1,12 +1,13 @@
 program Statistika;
 uses crt;
 
-{ ===================================================== }
-{ TUGAS BESAR (TUBES) - APLIKASI STATISTIKA SEDERHANA   }
-{ Nama  : Satrio Nurcahya                               }
-{ NIM   : 1303180078                                    }
-{ Kelas : IT-42-01                                      }
-{ ===================================================== }
+{ ========================================================= }
+{ TUGAS BESAR (TUBES) - APLIKASI STATISTIKA SEDERHANA       }
+{ Nama      : Satrio Nurcahya                               }
+{ NIM       : 1303180078                                    }
+{ Kelas     : IT-42-01                                      }
+{ Ketentuan : Buatlah Sebuah Program yang menerapkan CRUD   }
+{ ========================================================= }
 
 type
   { Ini record untuk menyimpan nilai dan frekuensinya }
