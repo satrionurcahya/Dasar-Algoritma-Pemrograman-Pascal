@@ -18,15 +18,15 @@ Kumpulan tugas mata kuliah **Basis Data Dasar** menggunakan
 
 Deskripsi lengkap setiap tugas ada di [Tugas_Basis_Data.md](./Tugas_Basis_Data.md).
 
-| No | Topik | File SQL | Dokumentasi |
-|----|-------|----------|-------------|
-| 4 | DDL & DML Dasar | [Tugas4_DDL_DML.sql](./Tugas4_DDL_DML.sql) | [README](./Tugas4_README.md) |
-| 5 | Basic SQL, SELECT, WHERE, Sorting | [Tugas5_Basic_SQL.sql](./Tugas5_Basic_SQL.sql) | [README](./Tugas5_README.md) |
-| 6 | Obtaining Data from Multiple Tables | [Tugas6_Multiple_Tables.sql](./Tugas6_Multiple_Tables.sql) | [README](./Tugas6_README.md) |
-| 7 | Aggregate Functions | [Tugas7_Aggregate.sql](./Tugas7_Aggregate.sql) | [README](./Tugas7_README.md) |
-| 8 | Subquery | [Tugas8_Subquery.sql](./Tugas8_Subquery.sql) | [README](./Tugas8_README.md) |
-| 9 | Stored Procedure | [Tugas9_Stored_Procedure.sql](./Tugas9_Stored_Procedure.sql) | [README](./Tugas9_README.md) |
-| **TB** | **Perancangan Basis Data Menu Asrama iGracias** | [TugasBesar_iGracias.sql](./TugasBesar_iGracias.sql) | [README](./TugasBesar_README.md) |
+| No | Topik | File SQL |
+|----|-------|----------|
+| 4 | DDL & DML Dasar | [Tugas4_DDL_DML.sql](./Tugas4_DDL_DML.sql) |
+| 5 | Basic SQL, SELECT, WHERE, Sorting | [Tugas5_Basic_SQL.sql](./Tugas5_Basic_SQL.sql) |
+| 6 | Obtaining Data from Multiple Tables | [Tugas6_Multiple_Tables.sql](./Tugas6_Multiple_Tables.sql) |
+| 7 | Aggregate Functions | [Tugas7_Aggregate.sql](./Tugas7_Aggregate.sql) |
+| 8 | Subquery | [Tugas8_Subquery.sql](./Tugas8_Subquery.sql) |
+| 9 | Stored Procedure | [Tugas9_Stored_Procedure.sql](./Tugas9_Stored_Procedure.sql) |
+| **TB** | **Perancangan Basis Data Menu Asrama iGracias** | [TugasBesar_iGracias.sql](./TugasBesar_iGracias.sql) |
 
 ## Cara Menjalankan
 
